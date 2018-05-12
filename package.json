@@ -1,0 +1,24 @@
+{
+  "name": "gamepicker",
+  "version": "1.0.0",
+  "description": "A simple game picker bot for discord",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BAyzenberg/GamePicker.git"
+  },
+  "author": "Ben Ayzenberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BAyzenberg/GamePicker/issues"
+  },
+  "homepage": "https://github.com/BAyzenberg/GamePicker#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^5.0.1"
+  }
+}
